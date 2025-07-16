@@ -9,25 +9,25 @@ manufacturer:
 When you open the recent apps tray, drag your app downwards (it will be locked). Locked/pinned apps will gain further protection and not be cleared from the background, even if you clear recent apps. Drag downwards again to clear your app from the background. <br>
 On some phones, you need to long-press Your app and then choose the padlock icon from the menu:
 
-<div class="img-block">
-  <img src="/assets/img/xiaomi/locking.jpg">
+<div class="img-open">
+  <img src="/assets/img/xiaomi/locking.open.jpg">
 </div>
 
 Another method of app locking is hidden a little deeper:
 
-<div class="img-block">
+<div class="img-open">
   <figure>
-    <img src="/assets/img/xiaomi/xiaomi_lock_1.jpg">
+    <img src="/assets/img/xiaomi/xiaomi_lock_open.jpg">
     <figcaption>Open Security app → Boost speed</figcaption>
   </figure>
 
   <figure>
-    <img src="/assets/img/xiaomi/xiaomi_lock_2.jpg">
-    <figcaption>Open the Settings cog icon</figcaption>
+    <img src="/assets/img/xiaomi/xiaomi_lock_open.jpg">
+    <figcaption>block the Settings cog icon</figcaption>
   </figure>
 
   <figure>
-    <img src="/assets/img/xiaomi/xiaomi_lock_3.jpg">
+    <img src="/assets/img/xiaomi/xiaomi_lock_open.jpg">
     <figcaption>Go to Lock apps and pick your app</figcaption>
   </figure>
 
@@ -39,7 +39,7 @@ Another method of app locking is hidden a little deeper:
 
 On MIUI 14, there is a new permission to start from the background for each app, in *Settings > Apps > Your app > App permissions > Background autostart*.
 
-<div class="img-block">
+<div class="img-open">
   <img src="/assets/img/xiaomi/miui14_autostart.png">
 
 </div>
@@ -48,7 +48,7 @@ On MIUI 14, there is a new permission to start from the background for each app,
 
 If the app is locked here in this "Boost speed" feature, it may be spared by *Ultra battery saver*. 
 
-<div class="img-block">
+<div class="img-open">
   <img src="/assets/img/xiaomi/xiaomi_booster.jpg">
   <img src="/assets/img/xiaomi/xiaomi_booster_2.jpg">
   <img src="/assets/img/xiaomi/xiaomi_booster_3.jpg">
@@ -61,7 +61,7 @@ If the app is locked here in this "Boost speed" feature, it may be spared by *Ul
 
 MIUI Optimizations were reported on MIUI 12 so far, but this option may be present on older versions too (let us know, if you have found this option on your phone). It is hidden in the Developers settings, so you need to switch to developer mode first (10x tap on MIUI version in About phone). As with all "optimizations", the MIUI optimizations can break the background tasks.
 
-<div class="img-block">
+<div class="img-open">
   <img src="/assets/img/xiaomi/miui_optimization_1.jpg">
   <img src="/assets/img/xiaomi/miui_opti.gif">
 
@@ -74,7 +74,7 @@ There were some reports, that the MIUI optimization was missing in the menu - [h
 
 To let your app run in the background, make sure settings for your app look like the following:
 
-<div class="img-block">
+<div class="img-open">
   <img src="/assets/img/xiaomi/miui12_settings1.jpg">
   <img src="/assets/img/xiaomi/miui12_settings2.jpg">
   <img src="/assets/img/xiaomi/miui12_settings3.jpg">
@@ -86,7 +86,7 @@ To let your app run in the background, make sure settings for your app look like
 
 To let your app run in the background, make sure settings for your app look like the following:
 
-<div class="img-block">
+<div class="img-open">
   <img src="/assets/img/xiaomi/ss_miui11_batterysaversettings1.png">
   <img src="/assets/img/xiaomi/ss_miui11_batterysaversettings2.png">
 </div>
@@ -97,7 +97,7 @@ To let your app run in the background, make sure settings for your app look like
 To let your app run in the background, make sure your settings look like the following (here for example is Sleep as Android):
 
 
-<div class="img-block">
+<div class="img-open">
   <img src="/assets/img/ss_xiaomi_1a.png">
   <img src="/assets/img/ss_xiaomi_1b.png">
   <img src="/assets/img/ss_xiaomi_1c.png">
